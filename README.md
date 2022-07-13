@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lamar-Johnson
-- 👀 I’m interested in ... Web Development and Big Data.
-- 🌱 I’m currently learning ... Figma.
+- 👀 I’m interested in ... Web Development, Big Data, and Cyber Security.
+- 🌱 I’m currently learning ... Cyber Security (Blue Team). Studying for my CySA+ exam through Comptia.
 - 💞️ I’m looking to collaborate on ... the next best thing!!!
 - 📫 How to reach me ... Email: ljtech1919@gmail.com.
 
